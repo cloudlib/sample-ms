@@ -1,0 +1,2203 @@
+{
+	"CatalogEntryView": [
+		{
+			"Attributes": [
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Rhapsody"
+						}
+					],
+					"description": "Rhapsody",
+					"identifier": "Feature_Rhapsody",
+					"name": "Rhapsody"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "4 inch screen size"
+						}
+					],
+					"description": "Screen Size",
+					"identifier": "Specification_Screen Size",
+					"name": "Screen Size"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_ShortHL"
+						}
+					],
+					"Values": [
+						{
+							"values": "Android 4.1"
+						}
+					],
+					"description": "shortHighLights_0",
+					"identifier": "shortHighLights_0",
+					"name": "shortHighLights_0"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Bundle"
+						}
+					],
+					"Values": [
+						{
+							"values": "Battery"
+						}
+					],
+					"description": "Battery",
+					"identifier": "Battery",
+					"name": "Battery"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "META_DESCRIPTION"
+						}
+					],
+					"Values": [
+						{
+							"values": "The Huawei Valiant is now at MetroPCS. Get the affordable, Android-powered Valiant with no annual contract while enjoying unlimited data, talk and text at $40 a month, period."
+						}
+					],
+					"description": "META_DESCRIPTION",
+					"identifier": "META_DESCRIPTION",
+					"name": "META_DESCRIPTION"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "META_TITLE"
+						}
+					],
+					"Values": [
+						{
+							"values": "Huawei Valiant | Android Phones | No Contract Phones | 4G Phones | Huawei Phones | MetroPCS"
+						}
+					],
+					"description": "META_TITLE",
+					"identifier": "META_TITLE",
+					"name": "META_TITLE"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "META_KEYWORD"
+						}
+					],
+					"Values": [
+						{
+							"values": "Huawei,MetroPCS android phone,unlimited text,unlimited data,cheap android,affordable smartphone,without contract,pre-paid phone,smart phone,No Contracts,social networking,Email,GPS,Wi-Fi,full HTML browsing,touch screen,video,Camera,Smartphone,Android,Hua"
+						}
+					],
+					"description": "META_KEYWORD",
+					"identifier": "META_KEYWORD",
+					"name": "META_KEYWORD"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Gorilla glass"
+						}
+					],
+					"description": "Glass",
+					"identifier": "Specification_Glass",
+					"name": "Glass"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "Dimension"
+						}
+					],
+					"Values": [
+						{
+							"values": "4.94"
+						}
+					],
+					"description": "WEIGHT",
+					"identifier": "WEIGHT",
+					"name": "WEIGHT"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "Dimension"
+						}
+					],
+					"Values": [
+						{
+							"values": "2.51"
+						}
+					],
+					"description": "WIDTH",
+					"identifier": "WIDTH",
+					"name": "WIDTH"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "Dimension"
+						}
+					],
+					"Values": [
+						{
+							"values": "0.45"
+						}
+					],
+					"description": "THICKNESS",
+					"identifier": "THICKNESS",
+					"name": "THICKNESS"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "Dimension"
+						}
+					],
+					"Values": [
+						{
+							"values": "4.96"
+						}
+					],
+					"description": "LENGTH",
+					"identifier": "LENGTH",
+					"name": "LENGTH"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_ShortHL"
+						}
+					],
+					"Values": [
+						{
+							"values": "4.0-inch touchscreen with Gorilla\u00ae Glass"
+						}
+					],
+					"description": "shortHighLights_1",
+					"identifier": "shortHighLights_1",
+					"name": "shortHighLights_1"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Bundle"
+						}
+					],
+					"Values": [
+						{
+							"values": "USB charger combo"
+						}
+					],
+					"description": "USB charger combo",
+					"identifier": "USB charger combo",
+					"name": "USB charger combo"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "COLOR"
+						}
+					],
+					"Values": [
+						{
+							"values": "Blue"
+						}
+					],
+					"description": "COLOR",
+					"identifier": "COLOR",
+					"name": "COLOR"
+				},
+				{
+					"Values": [
+						{
+							"values": "PHONE"
+						}
+					],
+					"identifier": "ZTAR",
+					"name": "ZTAR"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/front\/xl\/610214633569.jpg"
+						}
+					],
+					"description": "full_image",
+					"identifier": "full_image",
+					"name": "full_image"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/front\/medium\/610214633569.jpg"
+						}
+					],
+					"description": "medium_image",
+					"identifier": "medium_image",
+					"name": "medium_image"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/left\/xl\/610214633569.jpg"
+						}
+					],
+					"description": "left_image_xl",
+					"identifier": "left_image_xl",
+					"name": "left_image_xl"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/left\/small\/610214633569.jpg"
+						}
+					],
+					"description": "left_image_small",
+					"identifier": "left_image_small",
+					"name": "left_image_small"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/left\/medium\/610214633569.jpg"
+						}
+					],
+					"description": "left_image_medium",
+					"identifier": "left_image_medium",
+					"name": "left_image_medium"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/right\/xl\/610214633569.jpg"
+						}
+					],
+					"description": "right_image_xl",
+					"identifier": "right_image_xl",
+					"name": "right_image_xl"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/right\/small\/610214633569.jpg"
+						}
+					],
+					"description": "right_image_small",
+					"identifier": "right_image_small",
+					"name": "right_image_small"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/right\/medium\/610214633569.jpg"
+						}
+					],
+					"description": "right_image_medium",
+					"identifier": "right_image_medium",
+					"name": "right_image_medium"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/back\/xl\/610214633569.jpg"
+						}
+					],
+					"description": "back_image_xl",
+					"identifier": "back_image_xl",
+					"name": "back_image_xl"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/back\/small\/610214633569.jpg"
+						}
+					],
+					"description": "back_image_small",
+					"identifier": "back_image_small",
+					"name": "back_image_small"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/back\/medium\/610214633569.jpg"
+						}
+					],
+					"description": "back_image_medium",
+					"identifier": "back_image_medium",
+					"name": "back_image_medium"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/front\/small\/610214633569.jpg"
+						}
+					],
+					"description": "thumbnail",
+					"identifier": "thumbnail",
+					"name": "thumbnail"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "is_new"
+						}
+					],
+					"Values": [
+						{
+							"values": "true"
+						}
+					],
+					"description": "is new",
+					"identifier": "is_new",
+					"name": "is new"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "In store"
+						}
+					],
+					"Values": [
+						{
+							"values": "false"
+						}
+					],
+					"description": "In store",
+					"identifier": "in_store",
+					"name": "In store"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "market"
+						}
+					],
+					"Values": [
+						{
+							"values": "030"
+						},
+						{
+							"values": "051"
+						},
+						{
+							"values": "063"
+						},
+						{
+							"values": "061"
+						},
+						{
+							"values": "053"
+						},
+						{
+							"values": "052"
+						},
+						{
+							"values": "060"
+						},
+						{
+							"values": "012"
+						},
+						{
+							"values": "080"
+						},
+						{
+							"values": "055"
+						},
+						{
+							"values": "042"
+						},
+						{
+							"values": "070"
+						},
+						{
+							"values": "081"
+						},
+						{
+							"values": "056"
+						},
+						{
+							"values": "076"
+						},
+						{
+							"values": "058"
+						},
+						{
+							"values": "057"
+						},
+						{
+							"values": "078"
+						},
+						{
+							"values": "086"
+						},
+						{
+							"values": "ALL"
+						},
+						{
+							"values": "605"
+						},
+						{
+							"values": "084"
+						},
+						{
+							"values": "043"
+						},
+						{
+							"values": "074"
+						},
+						{
+							"values": "082"
+						},
+						{
+							"values": "010"
+						},
+						{
+							"values": "083"
+						},
+						{
+							"values": "031"
+						},
+						{
+							"values": "062"
+						},
+						{
+							"values": "077"
+						},
+						{
+							"values": "095"
+						},
+						{
+							"values": "096"
+						},
+						{
+							"values": "072"
+						},
+						{
+							"values": "091"
+						},
+						{
+							"values": "020"
+						},
+						{
+							"values": "040"
+						},
+						{
+							"values": "702"
+						},
+						{
+							"values": "050"
+						},
+						{
+							"values": "067"
+						},
+						{
+							"values": "602"
+						},
+						{
+							"values": "701"
+						},
+						{
+							"values": "703"
+						},
+						{
+							"values": "604"
+						},
+						{
+							"values": "603"
+						},
+						{
+							"values": "073"
+						},
+						{
+							"values": "601"
+						},
+						{
+							"values": "064"
+						},
+						{
+							"values": "071"
+						},
+						{
+							"values": "066"
+						},
+						{
+							"values": "014"
+						}
+					],
+					"description": "market",
+					"identifier": "market",
+					"name": "market"
+				},
+				{
+					"Values": [
+						{
+							"values": "HSPA"
+						}
+					],
+					"description": "Device Technology",
+					"identifier": "Device Technology",
+					"name": "Device Technology"
+				},
+				{
+					"Values": [
+						{
+							"values": "true"
+						}
+					],
+					"description": "metro_branded",
+					"identifier": "metro_branded",
+					"name": "metro_branded"
+				},
+				{
+					"Values": [
+						{
+							"values": "No"
+						}
+					],
+					"description": "Channel Fill",
+					"identifier": "Channel Fill",
+					"name": "Channel Fill"
+				},
+				{
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/html\/learn.html"
+						}
+					],
+					"description": "learn_html",
+					"identifier": "learn_html",
+					"name": "learn_html"
+				},
+				{
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/html\/moreinfo.html"
+						}
+					],
+					"description": "moreinfo_html",
+					"identifier": "moreinfo_html",
+					"name": "moreinfo_html"
+				},
+				{
+					"Values": [
+						{
+							"values": "10"
+						}
+					],
+					"description": "stockThreshold",
+					"identifier": "stockThreshold",
+					"name": "stockThreshold"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Instant Messaging"
+						}
+					],
+					"description": "Instant Messaging",
+					"identifier": "Feature_Instant Messaging",
+					"name": "Instant Messaging"
+				},
+				{
+					"Values": [
+						{
+							"values": "1"
+						}
+					],
+					"description": "Default Tab Index",
+					"identifier": "Default Tab Index",
+					"name": "Default Tab Index"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Video Capture"
+						}
+					],
+					"description": "Video Capture",
+					"identifier": "Feature_Video Capture",
+					"name": "Video Capture"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Android 4.1 Jelly Bean"
+						}
+					],
+					"description": "Operating System",
+					"identifier": "Specification_Operating System",
+					"name": "Operating System"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_ShortHL"
+						}
+					],
+					"Values": [
+						{
+							"values": "3 MP camera"
+						}
+					],
+					"description": "shortHighLights_2",
+					"identifier": "shortHighLights_2",
+					"name": "shortHighLights_2"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Bundle"
+						}
+					],
+					"Values": [
+						{
+							"values": "Quick reference guide"
+						}
+					],
+					"description": "Quick reference guide",
+					"identifier": "Quick reference guide",
+					"name": "Quick reference guide"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Wi-Fi"
+						}
+					],
+					"description": "Wi-Fi",
+					"identifier": "Feature_Wi-Fi",
+					"name": "Wi-Fi"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "1 GHz dual-core processor"
+						}
+					],
+					"description": "Processor Speed",
+					"identifier": "Specification_Processor Speed",
+					"name": "Processor Speed"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_ShortHL"
+						}
+					],
+					"Values": [
+						{
+							"values": "1.0 GHz dual-core processor"
+						}
+					],
+					"description": "shortHighLights_3",
+					"identifier": "shortHighLights_3",
+					"name": "shortHighLights_3"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Wi-Fi Calling"
+						}
+					],
+					"description": "Wi-Fi Calling",
+					"identifier": "Feature_Wi-Fi Calling",
+					"name": "Wi-Fi Calling"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "3 MP camera"
+						}
+					],
+					"description": "Front Camera",
+					"identifier": "Specification_Front Camera",
+					"name": "Front Camera"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Up to 1.9 GB of internal memory"
+						}
+					],
+					"description": "Internal Memory",
+					"identifier": "Specification_Internal Memory",
+					"name": "Internal Memory"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Bluetooth Stereo"
+						}
+					],
+					"description": "Bluetooth Stereo",
+					"identifier": "Feature_Bluetooth Stereo",
+					"name": "Bluetooth Stereo"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Up to 32 GB of external memory"
+						}
+					],
+					"description": "External Memory",
+					"identifier": "Specification_External Memory",
+					"name": "External Memory"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Memory Card Slot"
+						}
+					],
+					"description": "Memory Card Slot",
+					"identifier": "Feature_Memory Card Slot",
+					"name": "Memory Card Slot"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "1750 mAh of battery capacity"
+						}
+					],
+					"description": "Battery Capacity",
+					"identifier": "Specification_Battery Capacity",
+					"name": "Battery Capacity"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Email"
+						}
+					],
+					"description": "Email",
+					"identifier": "Feature_Email",
+					"name": "Email"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Up to 10 hours of talk time"
+						}
+					],
+					"description": "Talk Time (up to)",
+					"identifier": "Specification_Talk Time (up to)",
+					"name": "Talk Time (up to)"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "MP3 Music Player"
+						}
+					],
+					"description": "MP3 Music Player",
+					"identifier": "Feature_MP3 Music Player",
+					"name": "MP3 Music Player"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Up to 560 hours of standby time"
+						}
+					],
+					"description": "Standby Time (up to)",
+					"identifier": "Specification_Standby Time (up to)",
+					"name": "Standby Time (up to)"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "MetroMUSIC"
+						}
+					],
+					"description": "MetroMUSIC",
+					"identifier": "Feature_MetroMUSIC",
+					"name": "MetroMUSIC"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Touchscreen"
+						}
+					],
+					"description": "Touchscreen",
+					"identifier": "Feature_Touchscreen",
+					"name": "Touchscreen"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "HTML browser"
+						}
+					],
+					"description": "Browser Type",
+					"identifier": "Specification_Browser Type",
+					"name": "Browser Type"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "WEA Compliant - Yes"
+						}
+					],
+					"description": "WEA Compliant - Yes",
+					"identifier": "Feature_WEA Compliant - Yes",
+					"name": "WEA Compliant - Yes"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Stereo Bluetooth"
+						}
+					],
+					"description": "Bluetooth Connectivity",
+					"identifier": "Specification_Bluetooth Connectivity",
+					"name": "Bluetooth Connectivity"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Not Mobile Hotspot-capable"
+						}
+					],
+					"description": "Mobile Hotspot-capable",
+					"identifier": "Specification_Mobile Hotspot-capable",
+					"name": "Mobile Hotspot-capable"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Slate"
+						}
+					],
+					"description": "Style",
+					"identifier": "Specification_Style",
+					"name": "Style"
+				}
+			],
+			"Price": [
+				{
+					"priceDescription": "L",
+					"priceUsage": "Display",
+					"priceValue": "79.00"
+				},
+				{
+					"priceDescription": "O",
+					"priceUsage": "Offer",
+					"priceValue": "19.00"
+				}
+			],
+			"buyable": "false",
+			"fullImage": "\/wcsstore\/ExtendedSitesCatalogAssetStore\/phones\/610214633569\/images\/front\/xl\/610214633569.jpg",
+			"longDescription": "<p>The Huawei Valiant is the phone you\u2019ve been waiting for at a price you can afford. By taking the next step with the newest smartphone from Huawei, you are getting great functionality, exciting new upgrades and the power of a 1.0 GHz dual-core Qualcomm processor on Android 4.1 operating system.<\/p><br \/><p><a href=\"\/assets\/assets\/html\/wea.html\" onclick=\"window.open('\/assets\/assets\/html\/wea.html','popup','width=900,height=400,scrollbars=yes,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false\">Click here to learn more about WEA compliance<\/a><\/p>",
+			"manufacturer": "Huawei",
+			"name": "Huawei Valiant\u2122",
+			"parentCategoryID": "24103",
+			"partNumber": "610214633569",
+			"productType": "ItemBean",
+			"resourceId": "",
+			"thumbnail": "\/wcsstore\/ExtendedSitesCatalogAssetStore\/phones\/610214633569\/images\/front\/small\/610214633569.jpg",
+			"uniqueID": "109706",
+			"xcatentry_CATGROUP_IDENTIFIER": "Phones;Devices",
+			"xcatentry_COLOR": "Blue",
+			"xcatentry_ProductTypeId": "1",
+			"xcatentry_STARTDATE": "2013-08-26 12:00:00",
+			"xcatentry_instore": "false",
+			"xcatentry_stockThreshold": "10"
+		},
+		{
+			"Attributes": [
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Rhapsody"
+						}
+					],
+					"description": "Rhapsody",
+					"identifier": "Feature_Rhapsody",
+					"name": "Rhapsody"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "4 inch screen size"
+						}
+					],
+					"description": "Screen Size",
+					"identifier": "Specification_Screen Size",
+					"name": "Screen Size"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_ShortHL"
+						}
+					],
+					"Values": [
+						{
+							"values": "Android 4.1"
+						}
+					],
+					"description": "shortHighLights_0",
+					"identifier": "shortHighLights_0",
+					"name": "shortHighLights_0"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Bundle"
+						}
+					],
+					"Values": [
+						{
+							"values": "Battery"
+						}
+					],
+					"description": "Battery",
+					"identifier": "Battery",
+					"name": "Battery"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "META_DESCRIPTION"
+						}
+					],
+					"Values": [
+						{
+							"values": "The Huawei Valiant is now at MetroPCS. Get the affordable, Android-powered Valiant with no annual contract while enjoying unlimited data, talk and text at $40 a month, period."
+						}
+					],
+					"description": "META_DESCRIPTION",
+					"identifier": "META_DESCRIPTION",
+					"name": "META_DESCRIPTION"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "META_TITLE"
+						}
+					],
+					"Values": [
+						{
+							"values": "Huawei Valiant | Android Phones | No Contract Phones | 4G Phones | Huawei Phones | MetroPCS"
+						}
+					],
+					"description": "META_TITLE",
+					"identifier": "META_TITLE",
+					"name": "META_TITLE"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "META_KEYWORD"
+						}
+					],
+					"Values": [
+						{
+							"values": "Huawei,MetroPCS android phone,unlimited text,unlimited data,cheap android,affordable smartphone,without contract,pre-paid phone,smart phone,No Contracts,social networking,Email,GPS,Wi-Fi,full HTML browsing,touch screen,video,Camera,Smartphone,Android,Hua"
+						}
+					],
+					"description": "META_KEYWORD",
+					"identifier": "META_KEYWORD",
+					"name": "META_KEYWORD"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Gorilla glass"
+						}
+					],
+					"description": "Glass",
+					"identifier": "Specification_Glass",
+					"name": "Glass"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "Dimension"
+						}
+					],
+					"Values": [
+						{
+							"values": "4.94"
+						}
+					],
+					"description": "WEIGHT",
+					"identifier": "WEIGHT",
+					"name": "WEIGHT"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "Dimension"
+						}
+					],
+					"Values": [
+						{
+							"values": "2.51"
+						}
+					],
+					"description": "WIDTH",
+					"identifier": "WIDTH",
+					"name": "WIDTH"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "Dimension"
+						}
+					],
+					"Values": [
+						{
+							"values": "0.45"
+						}
+					],
+					"description": "THICKNESS",
+					"identifier": "THICKNESS",
+					"name": "THICKNESS"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "Dimension"
+						}
+					],
+					"Values": [
+						{
+							"values": "4.96"
+						}
+					],
+					"description": "LENGTH",
+					"identifier": "LENGTH",
+					"name": "LENGTH"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_ShortHL"
+						}
+					],
+					"Values": [
+						{
+							"values": "4.0-inch touchscreen with Gorilla\u00ae Glass"
+						}
+					],
+					"description": "shortHighLights_1",
+					"identifier": "shortHighLights_1",
+					"name": "shortHighLights_1"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Bundle"
+						}
+					],
+					"Values": [
+						{
+							"values": "USB charger combo"
+						}
+					],
+					"description": "USB charger combo",
+					"identifier": "USB charger combo",
+					"name": "USB charger combo"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "COLOR"
+						}
+					],
+					"Values": [
+						{
+							"values": "Blue"
+						}
+					],
+					"description": "COLOR",
+					"identifier": "COLOR",
+					"name": "COLOR"
+				},
+				{
+					"Values": [
+						{
+							"values": "PHONE"
+						}
+					],
+					"identifier": "ZTAR",
+					"name": "ZTAR"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/front\/xl\/610214633569.jpg"
+						}
+					],
+					"description": "full_image",
+					"identifier": "full_image",
+					"name": "full_image"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/front\/medium\/610214633569.jpg"
+						}
+					],
+					"description": "medium_image",
+					"identifier": "medium_image",
+					"name": "medium_image"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/left\/xl\/610214633569.jpg"
+						}
+					],
+					"description": "left_image_xl",
+					"identifier": "left_image_xl",
+					"name": "left_image_xl"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/left\/small\/610214633569.jpg"
+						}
+					],
+					"description": "left_image_small",
+					"identifier": "left_image_small",
+					"name": "left_image_small"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/left\/medium\/610214633569.jpg"
+						}
+					],
+					"description": "left_image_medium",
+					"identifier": "left_image_medium",
+					"name": "left_image_medium"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/right\/xl\/610214633569.jpg"
+						}
+					],
+					"description": "right_image_xl",
+					"identifier": "right_image_xl",
+					"name": "right_image_xl"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/right\/small\/610214633569.jpg"
+						}
+					],
+					"description": "right_image_small",
+					"identifier": "right_image_small",
+					"name": "right_image_small"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/right\/medium\/610214633569.jpg"
+						}
+					],
+					"description": "right_image_medium",
+					"identifier": "right_image_medium",
+					"name": "right_image_medium"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/back\/xl\/610214633569.jpg"
+						}
+					],
+					"description": "back_image_xl",
+					"identifier": "back_image_xl",
+					"name": "back_image_xl"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/back\/small\/610214633569.jpg"
+						}
+					],
+					"description": "back_image_small",
+					"identifier": "back_image_small",
+					"name": "back_image_small"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/back\/medium\/610214633569.jpg"
+						}
+					],
+					"description": "back_image_medium",
+					"identifier": "back_image_medium",
+					"name": "back_image_medium"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Image"
+						}
+					],
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/images\/front\/small\/610214633569.jpg"
+						}
+					],
+					"description": "thumbnail",
+					"identifier": "thumbnail",
+					"name": "thumbnail"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "is_new"
+						}
+					],
+					"Values": [
+						{
+							"values": "true"
+						}
+					],
+					"description": "is new",
+					"identifier": "is_new",
+					"name": "is new"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "In store"
+						}
+					],
+					"Values": [
+						{
+							"values": "false"
+						}
+					],
+					"description": "In store",
+					"identifier": "in_store",
+					"name": "In store"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "market"
+						}
+					],
+					"Values": [
+						{
+							"values": "030"
+						},
+						{
+							"values": "051"
+						},
+						{
+							"values": "063"
+						},
+						{
+							"values": "061"
+						},
+						{
+							"values": "053"
+						},
+						{
+							"values": "052"
+						},
+						{
+							"values": "060"
+						},
+						{
+							"values": "012"
+						},
+						{
+							"values": "080"
+						},
+						{
+							"values": "055"
+						},
+						{
+							"values": "042"
+						},
+						{
+							"values": "070"
+						},
+						{
+							"values": "081"
+						},
+						{
+							"values": "056"
+						},
+						{
+							"values": "076"
+						},
+						{
+							"values": "058"
+						},
+						{
+							"values": "057"
+						},
+						{
+							"values": "078"
+						},
+						{
+							"values": "086"
+						},
+						{
+							"values": "ALL"
+						},
+						{
+							"values": "605"
+						},
+						{
+							"values": "084"
+						},
+						{
+							"values": "043"
+						},
+						{
+							"values": "074"
+						},
+						{
+							"values": "082"
+						},
+						{
+							"values": "010"
+						},
+						{
+							"values": "083"
+						},
+						{
+							"values": "031"
+						},
+						{
+							"values": "062"
+						},
+						{
+							"values": "077"
+						},
+						{
+							"values": "095"
+						},
+						{
+							"values": "096"
+						},
+						{
+							"values": "072"
+						},
+						{
+							"values": "091"
+						},
+						{
+							"values": "020"
+						},
+						{
+							"values": "040"
+						},
+						{
+							"values": "702"
+						},
+						{
+							"values": "050"
+						},
+						{
+							"values": "067"
+						},
+						{
+							"values": "602"
+						},
+						{
+							"values": "701"
+						},
+						{
+							"values": "703"
+						},
+						{
+							"values": "604"
+						},
+						{
+							"values": "603"
+						},
+						{
+							"values": "073"
+						},
+						{
+							"values": "601"
+						},
+						{
+							"values": "064"
+						},
+						{
+							"values": "071"
+						},
+						{
+							"values": "066"
+						},
+						{
+							"values": "014"
+						}
+					],
+					"description": "market",
+					"identifier": "market",
+					"name": "market"
+				},
+				{
+					"Values": [
+						{
+							"values": "HSPA"
+						}
+					],
+					"description": "Device Technology",
+					"identifier": "Device Technology",
+					"name": "Device Technology"
+				},
+				{
+					"Values": [
+						{
+							"values": "true"
+						}
+					],
+					"description": "metro_branded",
+					"identifier": "metro_branded",
+					"name": "metro_branded"
+				},
+				{
+					"Values": [
+						{
+							"values": "No"
+						}
+					],
+					"description": "Channel Fill",
+					"identifier": "Channel Fill",
+					"name": "Channel Fill"
+				},
+				{
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/html\/learn.html"
+						}
+					],
+					"description": "learn_html",
+					"identifier": "learn_html",
+					"name": "learn_html"
+				},
+				{
+					"Values": [
+						{
+							"values": "\/phones\/610214633569\/html\/moreinfo.html"
+						}
+					],
+					"description": "moreinfo_html",
+					"identifier": "moreinfo_html",
+					"name": "moreinfo_html"
+				},
+				{
+					"Values": [
+						{
+							"values": "10"
+						}
+					],
+					"description": "stockThreshold",
+					"identifier": "stockThreshold",
+					"name": "stockThreshold"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Instant Messaging"
+						}
+					],
+					"description": "Instant Messaging",
+					"identifier": "Feature_Instant Messaging",
+					"name": "Instant Messaging"
+				},
+				{
+					"Values": [
+						{
+							"values": "1"
+						}
+					],
+					"description": "Default Tab Index",
+					"identifier": "Default Tab Index",
+					"name": "Default Tab Index"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Video Capture"
+						}
+					],
+					"description": "Video Capture",
+					"identifier": "Feature_Video Capture",
+					"name": "Video Capture"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Android 4.1 Jelly Bean"
+						}
+					],
+					"description": "Operating System",
+					"identifier": "Specification_Operating System",
+					"name": "Operating System"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_ShortHL"
+						}
+					],
+					"Values": [
+						{
+							"values": "3 MP camera"
+						}
+					],
+					"description": "shortHighLights_2",
+					"identifier": "shortHighLights_2",
+					"name": "shortHighLights_2"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Bundle"
+						}
+					],
+					"Values": [
+						{
+							"values": "Quick reference guide"
+						}
+					],
+					"description": "Quick reference guide",
+					"identifier": "Quick reference guide",
+					"name": "Quick reference guide"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Wi-Fi"
+						}
+					],
+					"description": "Wi-Fi",
+					"identifier": "Feature_Wi-Fi",
+					"name": "Wi-Fi"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "1 GHz dual-core processor"
+						}
+					],
+					"description": "Processor Speed",
+					"identifier": "Specification_Processor Speed",
+					"name": "Processor Speed"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_ShortHL"
+						}
+					],
+					"Values": [
+						{
+							"values": "1.0 GHz dual-core processor"
+						}
+					],
+					"description": "shortHighLights_3",
+					"identifier": "shortHighLights_3",
+					"name": "shortHighLights_3"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Wi-Fi Calling"
+						}
+					],
+					"description": "Wi-Fi Calling",
+					"identifier": "Feature_Wi-Fi Calling",
+					"name": "Wi-Fi Calling"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "3 MP camera"
+						}
+					],
+					"description": "Front Camera",
+					"identifier": "Specification_Front Camera",
+					"name": "Front Camera"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Up to 1.9 GB of internal memory"
+						}
+					],
+					"description": "Internal Memory",
+					"identifier": "Specification_Internal Memory",
+					"name": "Internal Memory"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Bluetooth Stereo"
+						}
+					],
+					"description": "Bluetooth Stereo",
+					"identifier": "Feature_Bluetooth Stereo",
+					"name": "Bluetooth Stereo"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Up to 32 GB of external memory"
+						}
+					],
+					"description": "External Memory",
+					"identifier": "Specification_External Memory",
+					"name": "External Memory"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Memory Card Slot"
+						}
+					],
+					"description": "Memory Card Slot",
+					"identifier": "Feature_Memory Card Slot",
+					"name": "Memory Card Slot"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "1750 mAh of battery capacity"
+						}
+					],
+					"description": "Battery Capacity",
+					"identifier": "Specification_Battery Capacity",
+					"name": "Battery Capacity"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Email"
+						}
+					],
+					"description": "Email",
+					"identifier": "Feature_Email",
+					"name": "Email"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Up to 10 hours of talk time"
+						}
+					],
+					"description": "Talk Time (up to)",
+					"identifier": "Specification_Talk Time (up to)",
+					"name": "Talk Time (up to)"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "MP3 Music Player"
+						}
+					],
+					"description": "MP3 Music Player",
+					"identifier": "Feature_MP3 Music Player",
+					"name": "MP3 Music Player"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Up to 560 hours of standby time"
+						}
+					],
+					"description": "Standby Time (up to)",
+					"identifier": "Specification_Standby Time (up to)",
+					"name": "Standby Time (up to)"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "MetroMUSIC"
+						}
+					],
+					"description": "MetroMUSIC",
+					"identifier": "Feature_MetroMUSIC",
+					"name": "MetroMUSIC"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "Touchscreen"
+						}
+					],
+					"description": "Touchscreen",
+					"identifier": "Feature_Touchscreen",
+					"name": "Touchscreen"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "HTML browser"
+						}
+					],
+					"description": "Browser Type",
+					"identifier": "Specification_Browser Type",
+					"name": "Browser Type"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Feature"
+						}
+					],
+					"Values": [
+						{
+							"values": "WEA Compliant - Yes"
+						}
+					],
+					"description": "WEA Compliant - Yes",
+					"identifier": "Feature_WEA Compliant - Yes",
+					"name": "WEA Compliant - Yes"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Stereo Bluetooth"
+						}
+					],
+					"description": "Bluetooth Connectivity",
+					"identifier": "Specification_Bluetooth Connectivity",
+					"name": "Bluetooth Connectivity"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Not Mobile Hotspot-capable"
+						}
+					],
+					"description": "Mobile Hotspot-capable",
+					"identifier": "Specification_Mobile Hotspot-capable",
+					"name": "Mobile Hotspot-capable"
+				},
+				{
+					"ExtendedValue": [
+						{
+							"extValue": "ATTR_Specification"
+						}
+					],
+					"Values": [
+						{
+							"values": "Slate"
+						}
+					],
+					"description": "Style",
+					"identifier": "Specification_Style",
+					"name": "Style"
+				}
+			],
+			"Price": [
+				{
+					"priceDescription": "L",
+					"priceUsage": "Display",
+					"priceValue": "79.00"
+				},
+				{
+					"priceDescription": "O",
+					"priceUsage": "Offer",
+					"priceValue": "19.00"
+				}
+			],
+			"buyable": "false",
+			"fullImage": "\/wcsstore\/ExtendedSitesCatalogAssetStore\/phones\/610214633569\/images\/front\/xl\/610214633569.jpg",
+			"longDescription": "<p>The Huawei Valiant is the phone you\u2019ve been waiting for at a price you can afford. By taking the next step with the newest smartphone from Huawei, you are getting great functionality, exciting new upgrades and the power of a 1.0 GHz dual-core Qualcomm processor on Android 4.1 operating system.<\/p><br \/><p><a href=\"\/assets\/assets\/html\/wea.html\" onclick=\"window.open('\/assets\/assets\/html\/wea.html','popup','width=900,height=400,scrollbars=yes,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false\">Click here to learn more about WEA compliance<\/a><\/p>",
+			"manufacturer": "Huawei",
+			"name": "Huawei Valiant\u2122",
+			"parentCategoryID": "24103",
+			"partNumber": "610214633569",
+			"productType": "ItemBean",
+			"resourceId": "",
+			"thumbnail": "\/wcsstore\/ExtendedSitesCatalogAssetStore\/phones\/610214633569\/images\/front\/small\/610214633569.jpg",
+			"uniqueID": "109706",
+			"xcatentry_CATGROUP_IDENTIFIER": "Phones;Devices",
+			"xcatentry_COLOR": "Blue",
+			"xcatentry_ProductTypeId": "1",
+			"xcatentry_STARTDATE": "2013-08-26 12:00:00",
+			"xcatentry_instore": "false",
+			"xcatentry_stockThreshold": "10"
+		}
+	],
+	"resourceName": "product"
+}

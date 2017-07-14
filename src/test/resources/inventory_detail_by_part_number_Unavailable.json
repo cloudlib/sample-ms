@@ -1,0 +1,11 @@
+{
+	"InventoryAvailability": [
+		{
+			"availableQuantity": "0.0",
+			"catentryId": "109706",
+			"inventoryStatus": "Unavailable"
+		}
+	],
+	"resourceId": "",
+	"resourceName": "inventory"
+}

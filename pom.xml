@@ -1,0 +1,97 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    
+	<artifactId>product-detail-service</artifactId>
+    <packaging>jar</packaging>
+    <name>product-detail-service</name>
+	<description>Project for Product Detail Service</description>
+    <version>0.0.3-SNAPSHOT</version>
+    <properties>
+        <java.version>1.8</java.version>
+        <maven.compiler.source>${java.version}</maven.compiler.source>
+        <maven.compiler.target>${java.version}</maven.compiler.target>
+        
+        
+        <PROJECT_ID>product-detail-service</PROJECT_ID>
+    </properties>
+	
+	<parent>
+    	<groupId>com.cloudlib.spring.cloud</groupId>
+		<artifactId>cloudlib-plat-microservice-starter</artifactId>
+		<version>0.0.2-SNAPSHOT</version>
+	</parent>
+	
+	<profiles>
+		<profile>
+			<id>full-stack</id>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+		</profile>
+	</profiles>
+	
+    <build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>				
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>build-helper-maven-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>add-source</id>
+						<phase>generate-sources</phase>
+						<goals>
+							<goal>add-source</goal>
+						</goals>
+						<configuration>
+							<sources>
+								<source>${basedir}/target/generated-sources</source>
+							</sources>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin> 
+		</plugins>
+	</build>
+   
+   <dependencies>
+       
+
+    </dependencies>
+    
+    <repositories>
+		<repository>
+			<id>central</id>
+			<name>cloudlib Release Milestones</name>
+			<url>http://artifactory.corporate.cloudlib.com/artifactory/cloudlib-maven-release-local</url>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
+		
+		<repository>
+			<id>snapshots</id>
+			<name>cloudlib Snapshots Milestones</name>
+			<url>http://artifactory.corporate.cloudlib.com/artifactory/cloudlib-maven-snapshot-local</url>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>
+	</repositories>
+	
+  <!--   <distributionManagement>
+	    <repository>
+	        <id>central</id>
+	        <name>prd-art-jav-1a.corporate.cloudlib.com-releases</name>
+	        <url>http://artifactory.corporate.cloudlib.com/artifactory/cloudlib-maven-release-local</url>
+	    </repository>
+	    <snapshotRepository>
+	        <id>snapshots</id>
+	        <name>prd-art-jav-1a.corporate.cloudlib.com-snapshots</name>
+	        <url>http://artifactory.corporate.cloudlib.com/artifactory/cloudlib-maven-snapshot-local</url>
+	    </snapshotRepository>
+	</distributionManagement> -->
+</project>
